@@ -42,9 +42,9 @@ I love solving problems, optimizing workflows, and turning ideas into production
 
 ---
 
-## 🎯 Productivity Heatmap  
+## 🎯 Monthly Productivity Heatmap  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=react-dark&hide_border=true&area=true&interval=monthly" />
 </p>
 
 ---
