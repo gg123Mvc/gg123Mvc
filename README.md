@@ -1,169 +1,130 @@
-<!-- HEADER -->
+<!-- ========================= -->
+<!-- README: JERI — Aesthetic & Professional -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6C63FF&center=true&vCenter=true&width=700&lines=JERI+👋;Full-Stack+Developer;Crafting+Scalable+and+Modern+Web+Apps;Clean+Code+%7C+High+Performance+%7C+Great+UX;Always+Building,+Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6C63FF&center=true&vCenter=true&width=700&lines=JERI+👋;Full-Stack+Developer;Crafting+Scalable+and+Modern+Web+Apps;Clean+Code+%7C+High+Performance+%7C+Great+UX;Always+Building,+Always+Learning+🚀" alt="header" />
+</p>
+
+<p align="center">
+  <a href="#"><img alt="Top Language" src="https://img.shields.io/badge/Top-Languages-6C63FF?style=for-the-badge&logo=github"></a>
+  <a href="mailto:muhamadjeri7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhamadjeri7%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://wa.me/6283823283198"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://instagram.com/Je1Mvc"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@Je1Mvc-ff69b4?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
 
 ## 🌟 About Me
-A full-stack engineer passionate about crafting clean, scalable, and high-impact digital products.  
-I love solving problems, optimizing workflows, and turning ideas into production-ready apps.
+Full-stack engineer passionate about building **clean, scalable, and high-impact** digital products. I enjoy solving problems, optimizing workflows, and shipping production-ready apps.
 
-- 🔍 Exploring: **AI integration, scalable backend systems, modern frontend UX**
-- ⚙️ Workstyle: *Think clearly → Build fast → Deliver value consistently*
-- 🚀 Goal: Creating digital experiences that feel effortless for users
+- 🔍 Exploring: **AI integration · scalable backends · modern frontend UX**  
+- ⚙️ Workstyle: *Think clearly → Build fast → Deliver value consistently*  
 - 📫 Contact: **muhamadjeri7@gmail.com**
 
 ---
 
-<!-- ========================= -->
-<h4 style="clear: both;">🟦 Languages</h4>
-<!-- ========================= -->
-
-<!-- Java — Backend kuat, OOP, sering dipakai untuk enterprise system -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<!-- TypeScript — JavaScript versi typed, scalable untuk proyek besar -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-
-<!-- JavaScript — Bahasa utama web, full-stack dengan Node.js -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-
-<!-- Python — Cocok untuk AI, automation, data processing -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<!-- Go — Performa tinggi & ringan, cocok untuk microservices -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-
-<!-- PHP — Backend umum untuk website & CMS -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-
-<br/><br/>
-
-<!-- ========================= -->
-<h4 style="margin-bottom: 12px; clear: both;">🎨 Frontend Frameworks</h4>
-<!-- ========================= -->
-
-<!-- Clear line supaya ikon tidak menggeser heading -->
-<div style="clear: both;"></div>
-
-<!-- React — UI library modern, cepat, component-based -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-
-<!-- Angular — Framework besar dengan architecture yang kuat -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-
-<!-- HTML5 — Struktur dasar website -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-
-<!-- CSS3 — Styling & responsive design -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-<!-- TailwindCSS — Utility-first styling, cepat & modern -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-
-<br><br/>
-
-
-<!-- ========================= -->
-<h4 style="clear: both;">⚙️ Backend & DevOps</h4>
-<!-- ========================= -->
-
-<!-- Node.js — Server-side JavaScript, cepat & scalable -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-<!-- Docker — Container untuk mempermudah deployment -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-
-<!-- Nginx — Reverse proxy & web server performa tinggi -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
-
-<!-- GraphQL — Query API modern, lebih efisien dari REST -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-
-<br><br/>
-
-<!-- ========================= -->
-<h4 style="clear: both;">🗄️ Databases</h4>
-<!-- ========================= -->
-
-<!-- MySQL — Relational DB paling umum digunakan -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-
-<!-- PostgreSQL — Advanced SQL database, fitur lengkap -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-
-<!-- MongoDB — NoSQL document-based, fleksibel -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-
-<br><br/>
-
-<!-- ========================= -->
-<h4 style="clear: both;">🛠️ Tools & Environment</h4>
-<!-- ========================= -->
-
-<!-- Git — Version control utama -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<!-- GitHub — Code hosting, CI/CD, issues, project management -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-<!-- Bash — Automation & shell scripting -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-
-<!-- Gradle — Build automation untuk Kotlin -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-
-<br><br/>
-
+## 🎨 Visual Style & Notes
+- Theme color: **#6C63FF** (primary) — digunakan di badges & accents.  
+- Layout: compact, mobile-friendly, single-column for GitHub README.  
+- No heavy HTML floats — badges used for color and readability.  
 
 ---
 
-### 🔥 Contribution Streaks
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gg123Mvc&theme=react&hide_border=true" />
+## 🟦 Languages & Core
+**Kotlin** · **Java** · **TypeScript** · **JavaScript** · **Python** · **Go** · **Rust** · **PHP**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" alt="PHP"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me  
+## 🎨 Frontend & UI
+**React · Angular · HTML5 · CSS3 · Tailwind CSS**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular" alt="Angular"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css" alt="Tailwind"/>
+</p>
+
+**Note:** untuk konsistensi visual, gunakan Tailwind utilities saat membangun prototipe UI.
+
+---
+
+## ⚙️ Backend & DevOps
+**Spring Boot · Node.js · Express · Docker · Nginx · GraphQL**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" alt="Express"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql" alt="GraphQL"/>
+</p>
+
+---
+
+## 🗄️ Databases & Cache
+**PostgreSQL · MySQL · MongoDB · Redis**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis" alt="Redis"/>
+</p>
+
+---
+
+## 🛠️ Tools & Workflow
+**Git · GitHub · Linux · Bash · Gradle · GitHub Actions**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle" alt="Gradle"/>
+</p>
+
+---
+
+## ✨ Highlights
+- ✅ Strong background in **full-stack systems** (frontend → backend → infra)  
+- ✅ Focus on **performance, maintainability, and UX**  
+- ✅ Comfortable with **cloud-native** patterns, containerization, and CI/CD
+
+---
+
+## 📂 Selected Projects
+- **E-Commerce Platform** — microservices (Spring Boot, PostgreSQL, Docker), responsive React frontend  
+- **Realtime Dashboard** — websockets + Node.js + Tailwind UI, optimized for performance  
+- **Automation Toolkit** — Python scripts + GitHub Actions to automate deployments & reports
+
+---
+
+## 🤝 Connect With Me
 <p align="left">
-
-<!-- INSTAGRAM -->
-<a href="https://instagram.com/Je1Mvc">
-  <img height="36" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-
-<!-- WHATSAPP -->
-<a href="https://wa.me/6283823283198" style="margin-left:14px;">
-  <img height="36" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-</a>
-
+  <a href="mailto:muhamadjeri7@gmail.com"><img src="https://img.shields.io/badge/Email-muhamadjeri7%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://instagram.com/Je1Mvc" style="margin-left:8px"><img src="https://img.shields.io/badge/Instagram-@Je1Mvc-ff69b4?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://wa.me/6283823283198" style="margin-left:8px"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
 </p>
 
 ---
 
-## ✨ Fun Fact  
-> "Debugging is 90% stress, 10% victory — but that 10% feels like winning a boss fight." ⚔️😄
+> **Fun Fact:** "Debugging is 90% stress, 10% victory — but that 10% feels like winning a boss fight." ⚔️😄
+
+---
+
