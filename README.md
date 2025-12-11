@@ -137,13 +137,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.s
 
 ---
 
-## 🎯 Productivity Heatmap  
-| Tahun    | Link Grafik                                                                                                                                                       |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2025** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2025-01-01&to=2025-12-31) |
-| **2024** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2024-01-01&to=2024-12-31) |
-| **2023** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2023-01-01&to=2023-12-31) |
-| **2022** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2022-01-01&to=2022-12-31) |
+## 📊 Developer Activity Overview
+
+### 🔥 Contribution Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gg123Mvc&theme=react&hide_border=true" />
+</p>
+
+### 📈 Monthly Contribution Line Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&interval=monthly&area=false" />
+</p>
+
+### 📘 GitHub Stats Overview  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gg123Mvc&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+
 
 
 
