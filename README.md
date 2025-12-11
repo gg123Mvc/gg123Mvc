@@ -44,8 +44,9 @@ I love solving problems, optimizing workflows, and turning ideas into production
 
 ## 🎯 Productivity Heatmap  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
+
 
 
 ---
