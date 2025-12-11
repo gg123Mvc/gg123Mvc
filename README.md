@@ -17,7 +17,7 @@ I love solving problems, optimizing workflows, and turning ideas into production
 ---
 
 <!-- ========================= -->
-🟦 Languages
+#### 🟦 Languages
 <!-- ========================= -->
 
 <!-- Java — Backend kuat, OOP, sering dipakai untuk enterprise system -->
@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <br/><br/>
 
 <!-- ========================= -->
-🎨 Frontend Frameworks
+#### 🎨 Frontend Frameworks
 <!-- ========================= -->
 
 <!-- React — UI library modern, cepat, component-based -->
@@ -73,7 +73,7 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 <br/><br/>
 
 <!-- ========================= -->
-⚙️ Backend & DevOps
+#### ⚙️ Backend & DevOps
 <!-- ========================= -->
 
 <!-- Node.js — Server-side JavaScript, cepat & scalable -->
@@ -95,7 +95,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.sv
 <br/><br/>
 
 <!-- ========================= -->
-🗄️ Databases
+#### 🗄️ Databases
 <!-- ========================= -->
 
 <!-- MySQL — Relational DB paling umum digunakan -->
@@ -113,7 +113,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 <br/><br/>
 
 <!-- ========================= -->
-🛠️ Tools & Environment
+#### 🛠️ Tools & Environment
 <!-- ========================= -->
 
 <!-- Git — Version control utama -->
@@ -137,26 +137,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.s
 
 ---
 
-## 📊 Developer Activity Overview
-
 ### 🔥 Contribution Streaks
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gg123Mvc&theme=react&hide_border=true" />
 </p>
-
-### 📈 Monthly Contribution Line Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&interval=monthly&area=false" />
-</p>
-
-### 📘 GitHub Stats Overview  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gg123Mvc&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-
-
-
 
 ---
 
