@@ -47,8 +47,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <br/><br/>
 
 <!-- ========================= -->
-<h4 style="clear: both;">🎨 Frontend Frameworks</h4>
+<h4 style="margin-bottom: 12px; clear: both;">🎨 Frontend Frameworks</h4>
 <!-- ========================= -->
+
+<!-- Clear line supaya ikon tidak menggeser heading -->
+<div style="clear: both;"></div>
 
 <!-- React — UI library modern, cepat, component-based -->
 <img align="left" width="36px" style="padding-right:10px;" 
@@ -71,6 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/
 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 
 <br><br/>
+
 
 <!-- ========================= -->
 <h4 style="clear: both;">⚙️ Backend & DevOps</h4>
