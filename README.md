@@ -17,7 +17,7 @@ I love solving problems, optimizing workflows, and turning ideas into production
 ---
 
 <!-- ========================= -->
-#### 🟦 Languages
+<h4 style="clear: both;">🟦 Languages</h4>
 <!-- ========================= -->
 
 <!-- Java — Backend kuat, OOP, sering dipakai untuk enterprise system -->
