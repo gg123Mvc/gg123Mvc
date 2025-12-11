@@ -70,7 +70,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 
-<br/><br/>
+<br><br/>
 
 <!-- ========================= -->
 #### ⚙️ Backend & DevOps
@@ -92,7 +92,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
 
-<br/><br/>
+<br><br/>
 
 <!-- ========================= -->
 #### 🗄️ Databases
@@ -110,7 +110,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
-<br/><br/>
+<br><br/>
 
 <!-- ========================= -->
 #### 🛠️ Tools & Environment
@@ -132,7 +132,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
-<br/><br/><br/>
+<br><br/>
 
 
 ---
