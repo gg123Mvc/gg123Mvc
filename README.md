@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <br/><br/>
 
 <!-- ========================= -->
-#### 🎨 Frontend Frameworks
+<h4 style="clear: both;">🎨 Frontend Frameworks</h4>
 <!-- ========================= -->
 
 <!-- React — UI library modern, cepat, component-based -->
@@ -73,7 +73,7 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 <br><br/>
 
 <!-- ========================= -->
-#### ⚙️ Backend & DevOps
+<h4 style="clear: both;">⚙️ Backend & DevOps</h4>
 <!-- ========================= -->
 
 <!-- Node.js — Server-side JavaScript, cepat & scalable -->
@@ -95,7 +95,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.sv
 <br><br/>
 
 <!-- ========================= -->
-#### 🗄️ Databases
+<h4 style="clear: both;">🗄️ Databases</h4>
 <!-- ========================= -->
 
 <!-- MySQL — Relational DB paling umum digunakan -->
@@ -113,7 +113,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 <br><br/>
 
 <!-- ========================= -->
-#### 🛠️ Tools & Environment
+<h4 style="clear: both;">🛠️ Tools & Environment</h4>
 <!-- ========================= -->
 
 <!-- Git — Version control utama -->
