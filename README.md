@@ -30,19 +30,8 @@ I love turning complex problems into simple, intuitive, and efficient solutions.
   <li>🚀 Mission: Create digital experiences that feel effortless for users</li>
 </ul>
 
-<hr/>
-
-<h2>🎨 Visual Style & Notes</h2>
-<ul>
-  <li>Theme color: <b>#6C63FF</b> — digunakan di seluruh badges</li>
-  <li>Layout: compact, mobile-friendly, clean</li>
-  <li>Tidak menggunakan grafik berat</li>
-</ul>
-
-<hr/>
-
 <h2>🟦 Languages & Core</h2>
-<p><b>Kotlin · Java · TypeScript · JavaScript · Python · Go · Rust · PHP</b></p>
+<p><b>Kotlin · Java · TypeScript · JavaScript · Python · Go · PHP</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java"/>
@@ -51,7 +40,6 @@ I love turning complex problems into simple, intuitive, and efficient solutions.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php"/>
 </p>
 
@@ -68,45 +56,36 @@ I love turning complex problems into simple, intuitive, and efficient solutions.
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css"/>
 </p>
 
-<p><i>Note: gunakan Tailwind utilities saat membangun UI modern.</i></p>
-
 <hr/>
 
 <h2>⚙️ Backend & DevOps</h2>
-<p><b>Spring Boot · Node.js · Express · Docker · Nginx · GraphQL</b></p>
+<p><b>Spring Boot · Node.js </b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql"/>
 </p>
 
 <hr/>
 
 <h2>🗄️ Databases & Cache</h2>
-<p><b>PostgreSQL · MySQL · MongoDB · Redis</b></p>
+<p><b>PostgreSQL · MySQL · MongoDB</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis"/>
 </p>
 
 <hr/>
 
 <h2>🛠️ Tools & Workflow</h2>
-<p><b>Git · GitHub · Linux · Bash · Gradle · GitHub Actions</b></p>
+<p><b>Git · GitHub · Bash · GitHub Actions</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle"/>
 </p>
 
 <hr/>
