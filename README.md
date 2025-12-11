@@ -17,16 +17,12 @@ I love solving problems, optimizing workflows, and turning ideas into production
 ---
 
 <!-- ========================= -->
-<!-- 🟦 Languages               -->
+🟦 Languages
 <!-- ========================= -->
 
 <!-- Java — Backend kuat, OOP, sering dipakai untuk enterprise system -->
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<!-- Spring Boot — Framework Java untuk REST API & microservices -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 
 <!-- TypeScript — JavaScript versi typed, scalable untuk proyek besar -->
 <img align="left" width="36px" style="padding-right:10px;" 
@@ -44,10 +40,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
 
-<!-- Rust — Aman & cepat, populer untuk sistem-level apps -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-
 <!-- PHP — Backend umum untuk website & CMS -->
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -55,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <br/><br/>
 
 <!-- ========================= -->
-<!-- 🎨 Frontend Frameworks    -->
+🎨 Frontend Frameworks
 <!-- ========================= -->
 
 <!-- React — UI library modern, cepat, component-based -->
@@ -76,21 +68,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/
 
 <!-- TailwindCSS — Utility-first styling, cepat & modern -->
 <img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
 
 <br/><br/>
 
 <!-- ========================= -->
-<!-- ⚙️ Backend & DevOps       -->
+⚙️ Backend & DevOps
 <!-- ========================= -->
 
 <!-- Node.js — Server-side JavaScript, cepat & scalable -->
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-
-<!-- Express.js — Minimalist backend framework untuk Node.js -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 
 <!-- Docker — Container untuk mempermudah deployment -->
 <img align="left" width="36px" style="padding-right:10px;" 
@@ -107,7 +95,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.sv
 <br/><br/>
 
 <!-- ========================= -->
-<!-- 🗄️ Databases               -->
+🗄️ Databases
 <!-- ========================= -->
 
 <!-- MySQL — Relational DB paling umum digunakan -->
@@ -122,14 +110,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
-<!-- Redis — In-memory cache super cepat -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-
 <br/><br/>
 
 <!-- ========================= -->
-<!-- 🛠️ Tools & Environment    -->
+🛠️ Tools & Environment
 <!-- ========================= -->
 
 <!-- Git — Version control utama -->
@@ -140,17 +124,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-<!-- Linux — OS developer & server environment -->
-<img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
 <!-- Bash — Automation & shell scripting -->
 <img align="left" width="36px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
-<!-- Gradle — Build automation untuk Java/Kotlin -->
+<!-- Gradle — Build automation untuk Kotlin -->
 <img align="left" width="36px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 
 <br/><br/><br/>
 
@@ -158,9 +138,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"
 ---
 
 ## 🎯 Productivity Heatmap  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+| Tahun    | Link Grafik                                                                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **2025** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2025-01-01&to=2025-12-31) |
+| **2024** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2024-01-01&to=2024-12-31) |
+| **2023** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2023-01-01&to=2023-12-31) |
+| **2022** | [Lihat Grafik](https://github-readme-activity-graph.vercel.app/graph?username=gg123Mvc&theme=react-dark&hide_border=true&area=true&from=2022-01-01&to=2022-12-31) |
 
 
 
@@ -170,12 +153,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"
 <p align="left">
 
 <!-- INSTAGRAM -->
-<a href="https://instagram.com/rfkhrmwnnn">
+<a href="https://instagram.com/Je1Mvc">
   <img height="36" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 
 <!-- WHATSAPP -->
-<a href="https://wa.me/6283869785398" style="margin-left:14px;">
+<a href="https://wa.me/6283823283198" style="margin-left:14px;">
   <img height="36" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
 
