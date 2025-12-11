@@ -42,11 +42,11 @@ I love solving problems, optimizing workflows, and turning ideas into production
 
 ---
 
-## 🎯 Monthly Productivity Heatmap  
+## 💻 Coding Languages Overview  
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=github-compact&hide_border=true&area=true&area_color=6C63FF33&line=6C63FF&point=6C63FF&interval=monthly" 
-    alt="Monthly Activity Graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfkhrmwnnn&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=420" 
+    alt="Most Used Languages"
     style="border-radius: 12px; box-shadow: 0 0 15px rgba(108,99,255,0.3);" 
   />
 </p>
