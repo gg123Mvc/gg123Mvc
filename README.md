@@ -15,12 +15,16 @@
 
 ---
 
-## 🌟 About Me
-Full-stack engineer passionate about building **clean, scalable, and high-impact** digital products. I enjoy solving problems, optimizing workflows, and shipping production-ready apps.
+ 🌟 About Me  
+Passionate Full-Stack Developer focused on crafting **clean, scalable, and high-impact** digital products.  
+I love turning complex problems into simple, intuitive, and efficient solutions.
 
-- 🔍 Exploring: **AI integration · scalable backends · modern frontend UX**  
-- ⚙️ Workstyle: *Think clearly → Build fast → Deliver value consistently*  
-- 📫 Contact: **muhamadjeri7@gmail.com**
+✨ I build with clarity, intention, and craftsmanship — from frontend interfaces to backend systems.
+
+### 🔥 What Drives Me
+- 🤖 Exploring: **AI integration · scalable backend architectures · modern frontend experiences**
+- ⚙️ Workstyle: *Think clearly → Build intentionally → Deliver meaningful value*
+- 🚀 Mission: Create digital experiences that feel effortless for users  
 
 ---
 
